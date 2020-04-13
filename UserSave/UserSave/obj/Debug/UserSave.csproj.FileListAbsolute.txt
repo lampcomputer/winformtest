@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\UserSave\UserSave\bin\Debug\UserSave.exe.config
+C:\Users\user\source\repos\UserSave\UserSave\bin\Debug\UserSave.exe
+C:\Users\user\source\repos\UserSave\UserSave\bin\Debug\UserSave.pdb
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.Properties.Resources.resources
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.UserSaveHome.resources
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.exe
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.pdb
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.MenuForm.resources
+C:\Users\user\source\repos\UserSave\UserSave\obj\Debug\UserSave.UserListHome.resources
